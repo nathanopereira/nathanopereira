@@ -1,5 +1,3 @@
-
-<img align="right" height="590em"     src="https://raw.githubusercontent.com/gist/nathanopereira/4665b6b11e5e862cc31d6f80968ff755/raw/04bd9be64aec18c865c9c26c360d3d3b931807c6/profilecard.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Nathan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanopereira&color=yellow" alt="Profile views" /> </p>
 
