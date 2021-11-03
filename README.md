@@ -1,5 +1,5 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Nathan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanopereira&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=npsouza&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Web Sênior focado em ajudar pessoas usando tecnologia
 - 👨‍💻 Atualmente trabalhando na [Loft](https://github.com/loft)
@@ -23,8 +23,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=nathanopereira&show_icons=true&theme=dracula" alt="nathanopereira's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanopereira&layout=compact&theme=dracula" alt="nathanopereira's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=npsouza&show_icons=true&theme=dracula" alt="nathanopereira's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npsouza&layout=compact&theme=dracula" alt="nathanopereira's most languages"/>
 </p>
 
 <br><br>
