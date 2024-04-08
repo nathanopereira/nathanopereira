@@ -1,7 +1,7 @@
 ## Olá, eu sou Nathan <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>
 
 - 🚲 Desenvolvedor Web Sênior focado em ajudar pessoas usando tecnologia
-- 👨‍💻 Atualmente trabalhando na [Loft](https://github.com/loft-br)
+- 👨‍💻 Atualmente trabalhando na [Totalpass](https://github.com/totalpass)
 
 ## 🛠 &nbsp;Tech Stack
 
