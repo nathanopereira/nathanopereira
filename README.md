@@ -23,9 +23,6 @@
 <a href="https://linkedin.com/in/nathansouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-nathansouza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/nathanpsouza7" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-nathanpsouza7-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
 
 
